@@ -1,0 +1,6 @@
+#chip {
+    text-align: center;
+    border-radius: 20px 30px;
+    border: solid color(yellow red green blue);
+    padding: 30px 40px;
+}
