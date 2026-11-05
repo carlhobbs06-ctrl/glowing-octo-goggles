@@ -17,5 +17,8 @@
 }
 .icon:hover{
     cursor: pointer;
-    color: var(--iconscolor);
+    color: rgb(100, 103, 115);
+}
+.icon > a {
+    text-decoration: none;
 }
